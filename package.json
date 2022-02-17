@@ -1,0 +1,23 @@
+{
+  "name": "@miscreants/library",
+  "version": "0.0.0",
+  "description": "Miscreants' JS library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miscreants/library.git"
+  },
+  "keywords": [
+    "javascript",
+    "library"
+  ],
+  "author": "TEAM MISCREANTS <npm@miscreants.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miscreants/library/issues"
+  },
+  "homepage": "https://github.com/Miscreants/library#readme"
+}
